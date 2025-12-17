@@ -20,7 +20,7 @@ HDH là 1 hệ thống phần mềm trung gian giữa người sử dụng và p
     - HDH cung cấp dịch vụ cơ bản, dễ sử dụng hơn so với tài nguyên thực
 
 # III. Các dịch vụ do HDH cung cấp
-Các dịch vụ cơ bản của HDH:
+HDH tạo ra môi trường thuận lợi cho việc thực hiện chương trình và giúp người dùng dễ dàng sử dụng hệ thống. Các dịch vụ cơ bản bao gồm:
 - `Tải và chạy chương trình`: Tự động quản lý việc nạp chương trình, thực hiện lệnh và giải phóng tài nguyên
 - `Giao diện người dùng`: Cung cấp dòng lệnh hoặc giao diện đồ họa để tương tác
 - `Thao tác vào/ra dữ liệu`: Hỗ trợ các hoạt động nhập/xuất thông tin
